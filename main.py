@@ -48,7 +48,7 @@ if start == "y" or start == "Y":
   else: 
     print()
     
-    print("You got to the left and a huge snake wraps around you and squeezes til your eyes pop out of its sockets. You died.")
+    print("You go to the left and a huge snake wraps around you and squeezes til your eyes pop out of its sockets. You died.")
 
 
 
